@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+	margin: 0;
+	padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+    
+
+.topheader{
+	background: #3B5998;
+	overflow: hidden;;
+}
+.container{
+	margin: 0 auto;
+	width: 1000px;
+	overflow: hidden;
+
+}
+.topleft{
+	float: left;
+	overflow: hidden;
+	color: #fff;
+	font-size: 25px;
+	font-family: 'Roboto', sans-serif;
+}
+.topright{
+	float: right;
+	overflow: hidden;
+	color: #fff;
+}
+ .o{
+ 	float: left;
+    margin-right: 10px;
+    margin-top: 10px;
+ }
+ .l {
+ 	float: left;
+    margin-top: 10px;
+
+ }
+ .l a{
+ 	text-decoration: none;
+ }
+ .mid{
+ 	background:#D2D8E8;
+	overflow: hidden;
+ }
+ .image{
+ 	float: left;
+ 	font-size: 30px;
+ 	color: #39385F;
+ 	width: 50%;
+ }
+ .button{
+ 	background: #3b5998;
+	color: #fff;
+ }
+ .signup-form{
+ 	float: right;
+ 	overflow: hidden;
+ 	width: 50%;
+ }
+ .s-button{
+ 	width: 210px;
+    height: 50px;
+    background: #69A555;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px 10px;
+
+ }
+
+ .f{
+ 	width: 290px;
+	height: 25px;
+	margin-top: 8px;
+	border-radius: 10px 10px;
+	background: white;
+	padding: 10px;
+	font-size: 20px;
+ }
+ .birth{
+ 	font-size: 25px;
+ }
+.footer{
+	background: #fff;
+}
